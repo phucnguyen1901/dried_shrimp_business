@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&family=Titillium+Web:ital,wght@0,200;0,300;1,200;1,400&display=swap');
+
+
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+    font-family: 'Hubballi', cursive;
+    font-family: 'Titillium Web', sans-serif;
+
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 5%;
+    background-color: burlywood;
+
+}
+
+
+.links a {
+    text-decoration: none;
+    padding: 0 5px;
+}
+
+.links a:hover{
+    color: orangered;
+}
